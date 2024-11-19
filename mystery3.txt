@@ -1,0 +1,72 @@
+A cat video highlighted a big year for lasers in space
+NASA has invested more than $700 million in testing laser communications in space.
+
+NASA has invested more than $700 million in testing laser communications in space.
+Taters, the orange tabby cat of a Jet Propulsion Laboratory employee, stars in a video beamed from deep space by NASA's Psyche spacecraft. The graphics illustrate several features from the tech demo, such as Psyche’s orbital path, Palomar’s telescope dome, and technical information about the laser and its data bit rate. Tater’s heart rate, color, and breed are also on display.
+
+Enlarge / Taters, the orange tabby cat of a Jet Propulsion Laboratory employee, stars in a video beamed from deep space by NASA's Psyche spacecraft. The graphics illustrate several features from the tech demo, such as Psyche’s orbital path, Palomar’s telescope dome, and technical information about the laser and its data bit rate. Tater’s heart rate, color, and breed are also on display.
+
+It's been quite a year for laser communications in space. In October and November, NASA launched two pioneering demonstrations to test high-bandwidth optical communication links, and these tech demos are now showing some initial results.
+
+On December 11, a laser communications terminal aboard NASA's Psyche spacecraft on the way to an asteroid linked up with a receiver in Southern California. The near-infrared laser beam contained an encoded message in the form of a 15-second ultra-high-definition video showing a cat bouncing around a sofa, chasing the light of a store-bought laser toy.
+
+Laser communications offer the benefit of transmitting data at a higher rate than achievable with conventional radio links. In fact, the Deep Space Optical Communications (DSOC) experiment on the Psyche spacecraft is testing technologies capable of sending data at rates 10 to 100 times greater than possible on prior missions.
+
+"We’re looking to increase the amount of data we can get down to Earth, and that has a lot of advantages to us," said Jeff Volosin, acting deputy associate administrator for NASA space communications and navigation program, before the launch of Psyche earlier this year.
+
+Now, DSOC has set a record for the farthest distance a high-definition video has streamed from space. At the time, Psyche was traveling 19 million miles (31 kilometers) from Earth, about 80 times the distance between Earth and the Moon. Traveling at the speed of light, the video signal took 101 seconds to reach Earth, sent at the system’s maximum bit rate of 267 megabits per second, NASA said.
+A playful experiment
+
+After reaching the receiver at Palomar Observatory in San Diego County, each video frame was transmitted "live" to NASA's Jet Propulsion Laboratory in Pasadena, California, where it was played in real time, according to NASA.
+
+“One of the goals is to demonstrate the ability to transmit broadband video across millions of miles. Nothing on Psyche generates video data, so we usually send packets of randomly generated test data,” said Bill Klipstein, the tech demo’s project manager at JPL, in a statement. “But to make this significant event more memorable, we decided to work with designers at JPL to create a fun video, which captures the essence of the demo as part of the Psyche mission."
+
+The video of Taters, the orange tabby cat of a JPL employee, was recorded before the launch of Psyche and stored on the spacecraft for this demonstration. The robotic probe launched on October 13 aboard a SpaceX Falcon Heavy rocket, with the primary goal of flying to the asteroid Psyche, a metal-rich world in the asteroid belt between the orbits of Mars and Jupiter.
+
+&lt;span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"&gt;﻿&lt;/span&gt;
+
+It will take six years for the Psyche probe to reach its destination, and NASA tacked on a laser communications experiment to help keep the spacecraft busy during the cruise. Since the launch in October, ground teams at JPL switched on the Deep Space Optical Communications (DSOC) experiment and ran it through some early tests.
+
+One of the most significant technical challenges involved in the DSOC experiment was aligning the 8.6-inch (22-centimeter) optical telescope aboard Psyche with a transmitter and receiver fitted to ground-based telescopes in California and vice versa. Because Psyche is speeding through deep space, this problem is akin to trying to hit a dime from a mile away while the dime is moving, according to Abi Biswas, DSOC's project technologist at JPL.
+
+Once you achieve that feat, the signal that is received is still very weak and therefore requires very sensitive detectors and processing electronics which can take that signal and extract information that’s encoded in it," Biswas said.
+
+The telescope aboard Psyche is mounted on an isolation-and-pointing assembly to stabilize the optics and isolate them from spacecraft vibrations, according to NASA. This is necessary to eliminate jitters that could prevent a stable laser lock between Earth and the Psyche spacecraft.
+
+“What optical or laser communications allows you is to achieve very high data rates, but on the downside, it’s a very narrow laser beam that requires very accurate pointing control," Biswas told reporters before the launch. "For example, the platform disturbance from a typical spacecraft would throw off the pointing, so you need to actively isolate from it or control against it.
+
+"For near-Earth missions, you can just control against it because you have enough control bandwidth," he said. "From deep space, where the signals received are very weak, you don’t have that much control bandwidth, so you have to isolate from the disturbance."
+The Deep Space Optical Communications (DSOC) experiment is mounted on NASA's Psyche spacecraft on the way to an asteroid. The inset image shows the mirror of the instrument's telescope for receiving and transmitting laser signals.
+
+Enlarge / The Deep Space Optical Communications (DSOC) experiment is mounted on NASA's Psyche spacecraft on the way to an asteroid. The inset image shows the mirror of the instrument's telescope for receiving and transmitting laser signals.
+
+There's another drawback of direct-to-Earth laser communications from space. Cloud cover over transmitting and receiving telescopes on Earth could block signals, so an operational optical communications network will require several ground nodes at different locations worldwide, ideally positioned in areas known for clear skies.
+
+
+Lasers all around
+
+The DSOC experiment will run for the first two years of Psyche's mission. If it works well, NASA could use the laser system to beam home imagery and scientific data from the spacecraft's cameras and instruments once it reaches its asteroid target. Because DSOC is an experiment, the Psyche spacecraft has a conventional radio antenna to get its data back to Earth.
+
+Laser communications could allow future robotic or human missions to transmit high-definition video from the Moon or more distant locations. Psyche will prove the fundamental technology needed to make that possible, and the DSOC demonstration is the first time this has been tried from beyond the Moon.
+
+Apart from offering a faster conduit for data from deep space, laser communications could also relieve burdens on NASA's Deep Space Network (DSN), a collection large radio antennas in California, Spain, and Australia used to maintain contact with missions scattered across the Solar System.
+
+NASA officials have sounded the alarm over the future of the global network, as it receives data and sends commands for everything from NASA's Artemis missions to the Moon to the Voyager probes in interstellar space.
+
+The Deep Space Network is oversubscribed and needs upgrades to keep up with an onslaught of missions in the pipeline. Around 40 missions currently relay on DSN's antennas to stay in communication with controllers and scientists back on Earth. Another 40-plus missions will join the queue over the next decade or so. The Artemis astronaut missions to the Moon will come with the most intense requirements for 24/7 coverage.
+
+Laser communication isn't new. SpaceX's Starlink Internet satellites use laser links to relay broadband signals between one another in space while using traditional radio frequencies to carry those signals to subscribers on the ground. Amazon's Project Kuiper network will use similar optical inter-satellite links, and those were recently tested for the first time on the Kuiper constellation's first two prototype satellites.
+
+The European Space Agency has its relay satellites get large volumes of imagery and data from Europe's Copernicus climate monitoring satellites into the hands of users more quickly. NASA is now testing a similar relay scheme with a new laser terminal delivered to the International Space Station on a SpaceX cargo vehicle last month.
+This artist's illustration shows the relay of laser signals between the International Space Station, a geostationary satellite, and Earth.
+
+This artist's illustration shows the relay of laser signals between the International Space Station, a geostationary satellite, and Earth.
+
+Less than a week before the cat video beamed from deep space, NASA completed its first laser link between the space station's new laser terminal orbiting a few hundred miles above Earth and a NASA laser relay package mounted on a US military satellite in geostationary orbit at an altitude of more than 22,000 miles (nearly 36,000 kilometers). The two laser telescopes are exchanging data at 1.2 gigabits per second, according to NASA.
+
+"Together, they complete NASA’s first two-way, end-to-end laser relay system," NASA said in a statement. This test is the "latest demonstration providing that laser communications is the future," said Jason Mitchell, director of NASA's advanced communications and navigation technology division.
+
+This demonstration aims to show it is possible to communicate with the International Space Station by laser, allowing NASA to route video back to Earth and, perhaps eventually, uplink videos and commands to the lab's crew. This capability is currently provided through NASA's fleet of Tracking and Data Relay Satellites, known as TDRS (tee-dress), working in the radio section of the electromagnetic spectrum.
+
+The TDRS satellites provide nearly continuous coverage, even when the space station is outside the view of antennas on the ground. But NASA is gradually retiring the TDRS fleet over the next decade or so. A future fleet of laser relay platforms in orbit could do the same job but handle significantly more data.
+

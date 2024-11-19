@@ -1,0 +1,33 @@
+Elon Musk will see you in court: The top Twitter and X Corp. lawsuits of 2023
+
+Elon Musk's ownership of Twitter, now called X, began with a lawsuit. When Musk tried to break a $44 billion merger agreement, Twitter filed a lawsuit that gave Musk no choice but to complete the deal.
+
+In the year-plus since Musk bought the company, he's been the defendant and plaintiff in many more lawsuits involving Twitter and X Corp. As 2023 comes to a close, this article rounds up a selection of notable lawsuits involving the Musk-led social network and provides updates on the status of the cases.
+
+Musk seemingly held a grudge against the law firm that helped Twitter force Musk to complete the merger. In July, X Corp. sued Wachtell, Lipton, Rosen & Katz in an attempt to claw back the $90 million that Twitter paid the firm before Musk completed the acquisition.
+
+Most of that money was paid to Wachtell hours before the merger closed. X's lawsuit in San Francisco County Superior Court claimed that "Wachtell arranged to effectively line its pockets with funds from the company cash register while the keys were being handed over to the Musk Parties."
+
+Wachtell sought to move the dispute into arbitration, pointing out that the contract between itself and Twitter contained a binding arbitration clause. In October, the court granted Wachtell's motion to compel arbitration and stayed the lawsuit pending the outcome.
+
+While Twitter paid the Wachtell legal bill before Musk could block the payment, dozens of lawsuits allege that X has refused to pay bills owed to other companies that started providing services to Twitter before the Musk takeover.
+
+The suits were filed by software vendors, landlords, event planning firms, a private jet company, an office renovator, consultants, and other companies. The lawsuits helped some companies obtain payment via settlements, but X has continued to fight many of the allegations. We covered the unpaid-bill lawsuits in-depth in this lengthy article published in September.
+
+Musk has repeatedly blamed outside parties for X's financial problems, which are largely due to advertisers not wanting to be associated with offensive and controversial content that used to be more heavily moderated before Musk slashed the company's staff.
+
+One of the biggest ad-spending drops came after a November 16 Media Matters report that said corporate ads were placed "next to content that touts Adolf Hitler and his Nazi Party." Musk's X Corp responded by suing Media Matters a few days later, claiming the group "manipulated the algorithms governing the user experience on X to bypass safeguards and create images of X's largest advertisers' paid posts adjacent to racist, incendiary content."
+
+The suit was filed in US District Court for the Northern District of Texas. There aren't any significant updates on the case to report yet.
+
+X Corp. previously filed a similar lawsuit against the nonprofit Center for Countering Digital Hate (CCDH), claiming the group "improperly gain[ed] access" to data, and "cherry-pick[ed] from the hundreds of millions of posts made each day on X" in order to "falsely claim it had statistical support showing the platform is overwhelmed with harmful content."
+
+The CCDC filed a motion to dismiss X's lawsuit on November 16, saying that its actions constituted "newsgathering activity in furtherance of the CCDH defendants' protected speech and reporting." The motion and case are still pending in US District Court for the Northern District of California.
+
+In July, X Corp. sued unidentified data scrapers in Dallas County District Court, accusing them of "severely tax[ing]" company servers by "flooding Twitter's sign-up page with automated requests." The lawsuit was filed days after Twitter imposed rate limits capping the number of tweets users could view each day.
+
+"Several entities tried to scrape every tweet ever made in a short period of time. That is why we had to put rate limits in place," Musk wrote at the time.
+
+The lawsuit initially listed four John Doe defendants and was amended to raise the number of defendants to 11. This was a tough lawsuit for X to pursue because it didn't know who the scrapers were and identified them only by their IP addresses.
+
+X issued subpoenas to Amazon Web Services, Akamai, and Google in attempts to gain information on the John Does behind the IP addresses, but the case fizzled out. On October 30, a Dallas County judge dismissed the lawsuit "for want of prosecution" and ordered X to pay the court costs.

@@ -1,0 +1,48 @@
+Study: the best free-throw shooters share these biomechanical traits
+Best shooters have greater control over release point height, trunk lean in particular.
+
+On the eighth day of Christmas —
+Best shooters have greater control over release point height, trunk lean in particular.
+
+There's rarely time to write about every cool science-y story that comes our way. So this year, we're once again running a special Twelve Days of Christmas series of posts, highlighting one science story that fell through the cracks in 2020, each day from December 25 through January 5. Today: Using markerless motion capture technology to determine what makes the best free throw shooters in basketball.
+
+Markerless motion capture technology shows the biomechanics of free-throw shooters. Credit: Jayhawk Athletic Peformance Laboratory.
+
+Basketball season is in full swing and in a close game, the team that makes the highest percentage of free throws can often eke out the win. A better understanding of the precise biomechanics of the best free-throw shooters could translate into critical performance player performance improvement. Researchers at the University of Kansas in Lawrence used markerless motion capture technology to do just that, reporting their findings in an August paper published in the journal Frontiers in Sports and Active Living.
+
+“We’re very interested in analyzing basketball shooting mechanics and what performance parameters differentiate proficient from nonproficient shooters,” said co-author Dimitrije Cabarkapa, director of the Jayhawk Athletic Performance Laboratory at the University of Kansas. “High-speed video analysis is one way that we can do that, but innovative technological tools such as markerless motion capture systems can allow us to dig even deeper into that. In my opinion, the future of sports science is founded on using noninvasive and time-efficient testing methodologies.”
+
+Scientists are sports fans like everyone else, so it's not surprising that there has been a fair amount of prior research into various aspects of basketball. For instance, there has been considerable debate on whether the "hot hand" phenomenon in basketball is a fallacy or not—that is, when players make more shots in a row than statistics suggest they should. A 1985 study proclaimed it a fallacy, and but more recent mathematical analysis (including a 2015 study examining the finer points of the law of small numbers) from other researchers has provided some vindication that such streaks might indeed be a real thing, although it might only apply to certain players.
+
+Some 20 years ago, Larry Silverberg and Chia Tran of North Carolina State University developed a method to computationally simulate the trajectories of millions of basketballs on the computer and used it to examine the mathematics of the free throw. Per their work, in a perfect free throw, the basketball has a 3 hertz backspin as it leaves the player's fingertips, the launch is about 52 degrees, and the launch speed is fairly slow, ensuring the greatest probability of making the basket. Of those variables launch speed is the most difficult for players to control.  The aim point also matters: players should aim at the back of the rim, which is more forgiving than the front.
+
+There was also a 2021 study by Malaysian scientists that analyzed the optimal angle of a basketball free throw, based on data gleaned from 30 NBA players. They concluded that a player's height is inversely proportional to the initial velocity and optimal throwing angle, and that the latter is directly proportional to the time taken for a ball to reach its maximum height.
+Graphic showing the contrast in release angles between proficient and nonproficient shooters.
+
+Enlarge / Graphic showing the contrast in release angles between proficient and nonproficient shooters.
+
+Jayhawk Athletic Performance Laboratory.
+
+Cabarkapa's lab has been studying basketball players' performance for several years now, including how eating breakfast (or not) impacts shooting performance, and what happens to muscles when players overtrain.  They published a series of studies in 2022 assessing the effectiveness of the most common coaching cues, like "bend your knees," "tuck your elbow in," or "release the ball as high as possible." For one study, Cabarkapa et al. analyzed high definition video of free throw shooters for kinematic differences between players who excel at free throws and those who don't. The results pointedto greater flexion in hip, knee, and angle joints resulting in lower elbow placement when shooting.
+
+Yet they found no kinematic differences in shots that proficient players made and those they missed, so the team conducted a follow-up study employing a 3D motion capture system. This confirmed that greater knee and elbow flexion, and lower elbow placement were critical factors. There was only one significant difference between made and missed free throw shots: positioning the forearm almost parallel with an imaginary lateral axis.
+Dimitrije Cabarkapa demonstrates characteristics of a proficient three-point shooter in the left two images: forearm angle, release height, and heel height. The right images show characteristics of a nonproficient shooter.
+
+Enlarge / Dimitrije Cabarkapa demonstrates characteristics of a proficient three-point shooter in the left two images: forearm angle, release height, and heel height. The right images show characteristics of a nonproficient shooter.
+
+Dimitrije Cabarkapa
+
+A third study looked at kinematic differences between two-point and three-point shooters (both proficient and non-proficient), using high-speed video and a force-plate system. They found that good two-point shooters have greater elbow placement and elbow flexion during the early phase of the shooting motion, and greater shoulder flexion/release angle at the time of the ball's release. By contrast, good three-point shooters also had greater elbow flexion but also kept the torso in a near-vertical position, and could reach greater vertical jump heights at the ball's release.
+
+Finally, Cabarkapa's lab published a study examining the connection between a player's strength and their success at shooting free throws, two-pointers, and three-pointers. They didn't find a strong correlation, although they concluded this did not mean strength doesn't matter when it comes shooting accuracy, merely that there are probably other factors to be considered.
+Experimental set-up of the markerless motion capture system.
+
+Enlarge / Experimental set-up of the markerless motion capture system.
+
+Jayhawk Athletic Performance Laboratory
+
+For this latest study, Cabarkapa and his colleagues recruited 34 healthy active males with at least four years' experience playing basketball. After warming up, each player took 10-15 practice shots, then stood at the free throw line and attempted ten shots, resting for 10-15 seconds between each one to rule out fatigue as a factor. The researchers used a 3D marker less motion capture system incorporating nine high-definition camera to capture the biomechanics of each shot for analysis.
+
+The results: the best free-throw shooters had more control over the shooting motion, particularly over key variables like lower knee and center of mass peak and mean angular velocities, compared to less skilled shooters. The best shooters also reached a greater release height and their trunks leaned forward less at the point of ball release. Finally, an overemphasis on the height at release could often be counterproductive, causing even the best free shooters to miss more shots.
+
+"These findings imply that basketball shooting motion is not as simple as some may think. Shooting efficiency can’t be simply attributed to one biomechanical variable," said Cabarkapa. "It is founded on a mix of multiple segmental body movements performed in a controlled manner.”

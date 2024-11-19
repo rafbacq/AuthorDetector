@@ -1,0 +1,33 @@
+
+Why game trailers are sometimes more thrilling than the games themselves
+The next time you get a tingle from an exciting scene in a trailer for an …
+
+Like thousands of others, I was incredibly impressed with this fake, animated trailer for an imaginary, Wind Waker-inspired Legend of Zelda game. The short video manages to capture the series' feeling of epic adventure and thrilling action in an entirely new and exciting way. Yet the more I watched the trailer and really thought about how it would translate to an actual game experience, the more I realized that this is just another example of a passive film doing things in a way that would be difficult or impossible to pull off in an interactive game.
+
+Trailer for a (fake) Wind Waker-inspired Zelda game, by joelfurtado
+
+Many of the most thrilling scenes in this trailer come at camera angles that would be frustrating or just plain unworkable for an actual interactive game. Take the spider chase that starts about 21 seconds into the trailer. For a good second or two, Link is actually off screen, continuing to run as the camera stays put so the trailer can show a spider chasing him. Then the camera changes abruptly to a dramatic low angle, with Link running towards it as he turns back to see a whole group of spiders chasing him.
+
+As a non-interactive cut scene, this works great. But imagine trying to actually control Link in this situation. If you were doing anything other than simply holding the analog stick in one direction to run at full speed, it would break down entirely. What if you turned around the spider when Link was hovering in the nether-world off screen? What if you decided to stop and fight while the camera was stuck at that incredibly awkward low angle? The whole scene would fall apart.
+
+The trailer shows another, similar situation 37 seconds into the animation, with a tight crop on a motion-blurred Link running across a flaming landscape. The shot switches briefly to a fire-breathing, pig-like Gannon before cutting abruptly back to Link, who somehow knows the exact moment to leap hundreds of feet in the air to deliver a massive overhead strike.
+
+Again, fine for a thrilling cut scene, but imagine actually trying to play a scene that was shot like this? How would you know it was safe to keep running when the game is showing you Gannon? How would you know the exact moment to jump?
+
+If the answer you came up with for the last question was "a big flashing on-screen prompt telling you to jump," you're probably right. But games that are laden with these types of see-a-button-on-screen-and-press-that-button Quick Time Events are roundly and rightly derided for making the player into a glorified test subject—hear a bell, push the button, get a nice animated treat as a reward. At that point, it's a less like a game and more like watching a movie while playing Simon Says, and while this technique can sometimes work sparingly (see God of War, Heavy Rain), relying on it too much can lead to a sort of evolutionary dead-end as far as gameplay is concerned (see Dragon's Lair).
+
+The kinds of sudden perspective changes shown in this trailer can work in survival horror games like the original Resident Evil, where a sudden jump cut actually adds to the player's disorientation in a good way. But in action games, overly fancy camera work tends to take away from the actual play experience. I'm reminded here of the 3D Sonic the Hedgehog games, which often features long sections where the player holds a single direction as the camera dips and spins around Sonic, who is busy being pushed by springs and launchers around a variety of thrilling loops, turns and jumps (see about a minute into this video for an example). It can be quite thrilling to watch, but to say you're "playing" these sections kind of misses the point.
+
+The first level of Sonic Adventure
+
+In game trailers, you constantly see a kind of misdirection using fancy camera angles employed in a way that describes little of what actually playing the game will look like. Take this trailer for Gran Turismo 5. Yes, it provides a beautiful look at the game's exquisitely rendered cars and environments. But if the game took place in almost any of the dozens of thrilling, panning, zooming, jump-cutting camera angles shown there, it would be an unplayable mess where you had no idea when the next turn was coming or how to handle it.
+
+An E3 2010 trailer for Gran Turismo 5 shows off a variety of fancy camera angles.
+
+Another impressive trailer, the first tease for Dead Island, was was popular enough to get itself optioned for a feature film. (That's right... it wasn't the game that inspired Hollywood... it was specifically the trailer.) It's a hauntingly beautiful meditation on a family vacation that is torn to shreds by a zombie attack, but can you imagine trying to control a playable version of that scene? One where you could both tell what was going on and react to it in a meaningful, interactive way? Everything from the camera work to the pacing to the chronological arrangement of the shots would probably have to be thrown out the window, and indeed it was when Dead Island the game (rather than Dead Island, the short film) was released.
+
+The teaser trailer for Dead Island had little to no resemblance to the game itself.
+
+There's a reason most action games keep the camera tied tightly to the main character and his surroundings—it's what works. Even if that perspective is taken away briefly to show the player something important, for the most part having a predictable, centered viewpoint is essential to keeping things comprehensible and playable in a video game. Yet game trailers constantly break this rule, showing off a world where strong framing and scene selection can make a game seem more thrilling than it can actually be.
+
+Don't get me wrong, there's a lot that can probably be done to make in-game camera angles more exciting and dynamic without taking away from player comprehension and agency. But the next time you're getting wowed by a video game trailer, even a fake one, take a moment and think whether or not what you're being shown would be fun to play, or if it's just fun to watch.

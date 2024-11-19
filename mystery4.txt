@@ -1,0 +1,38 @@
+
+40% of US electricity is now emissions-free
+
+Decarbonizing, but slowly —
+Good news as natural gas, coal, and solar see the biggest changes.
+
+Just before the holiday break, the US Energy Information Agency released data on the country's electrical generation. Because of delays in reporting, the monthly data runs through October, so it doesn't provide a complete picture of the changes we've seen in 2023. But some of the trends now seem locked in for the year: wind and solar are likely to be in a dead heat with coal, and all carbon-emissions-free sources combined will account for roughly 40 percent of US electricity production.
+Tracking trends
+
+Having data through October necessarily provides an incomplete picture of 2023. There are several factors that can cause the later months of the year to differ from the earlier ones. Some forms of generation are seasonal—notably solar, which has its highest production over the summer months. Weather can also play a role, as unusually high demand for heating in the winter months could potentially require that older fossil fuel plants be brought online. It also influences production from hydroelectric plants, creating lots of year-to-year variation.
+
+Finally, everything's taking place against a backdrop of booming construction of solar and natural gas. So, it's entirely possible that we will have built enough new solar over the course of the year to offset the seasonal decline at the end of the year.
+
+Let's look at the year-to-date data to get a sense of the trends and where things stand. We'll then check the monthly data for October to see if any of those trends show indications of reversing.
+
+The most important takeaway is that energy use is largely flat. Overall electricity production year-to-date is down by just over one percent from 2022, though demand was higher this October compared to last year. This is in keeping with a general trend of flat-to-declining electricity use as greater efficiency is offsetting factors like population growth and expanding electrification.
+
+That's important because it means that any newly added capacity will displace the use of existing facilities. And, at the moment, that displacement is happening to coal.
+Can’t hide the decline
+
+At this point last year, coal had produced nearly 20 percent of the electricity in the US. This year, it's down to 16.2 percent, and only accounts for 15.5 percent of October's production. Wind and solar combined are presently at 16 percent of year-to-date production, meaning they're likely to be in a dead heat with coal this year and easily surpass it next year.
+
+Year-to-date, wind is largely unchanged since 2022, accounting for about 10 percent of total generation, and it's up to over 11 percent in the October data, so that's unlikely to change much by the end of the year. Solar has seen a significant change, going from five to six percent of the total electricity production (this figure includes both utility-scale generation and the EIA's estimate of residential production). And it's largely unchanged in October alone, suggesting that new construction is offsetting some of the seasonal decline.
+Coal is being squeezed out by natural gas, with an assist from renewables.
+
+Enlarge / Coal is being squeezed out by natural gas, with an assist from renewables.
+
+Hydroelectric production has dropped by about six percent since last year, causing it to slip from 6.1 percent to 5.8 percent of the total production. Depending on the next couple of months, that may allow solar to pass hydro on the list of renewables.
+
+Combined, the three major renewables account for about 22 percent of year-to-date electricity generation, up about 0.5 percent since last year. They're up by even more in the October data, placing them well ahead of both nuclear and coal.
+
+Nuclear itself is largely unchanged, allowing it to pass coal thanks to the latter's decline. Its output has been boosted by a new, 1.1 Gigawatt reactor that come online this year (a second at the same site, Vogtle in Georgia, is set to start commercial production at any moment). But that's likely to be the end of new nuclear capacity for this decade; the challenge will be keeping existing plants open despite their age and high costs.
+
+If we combine nuclear and renewables under the umbrella of carbon-free generation, then that's up by nearly 1 percent since 2022 and is likely to surpass 40 percent for the first time.
+
+The only thing that's keeping carbon-free power from growing faster is natural gas, which is the fastest-growing source of generation at the moment, going from 40 percent of the year-to-date total in 2022 to 43.3 percent this year. (It's actually slightly below that level in the October data.) The explosive growth of natural gas in the US has been a big environmental win, since it creates the least particulate pollution of all the fossil fuels, as well as the lowest carbon emissions per unit of electricity. But its use is going to need to start dropping soon if the US is to meet its climate goals, so it will be critical to see whether its growth flat lines over the next few years.
+
+Outside of natural gas, however, all the trends in US generation are good, especially considering that the rise of renewable production would have seemed like an impossibility a decade ago. Unfortunately, the pace is currently too slow for the US to have a net-zero electric grid by the end of the decade.
