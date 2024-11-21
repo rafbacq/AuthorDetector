@@ -1,3 +1,6 @@
+package io.github.rafbacq;
+
+
 import java.util.*;
 import java.io.*;
 
