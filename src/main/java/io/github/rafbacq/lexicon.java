@@ -12,11 +12,12 @@ public class lexicon {
     }
     public static void addWords() throws IOException
     {
-        BufferedReader br = new BufferedReader(new FileReader("/Users/tristancarter/AuthorDetector/commonWords.txt"));
-        commonWords= new HashSet();
-        for(int i=0; i<3171; i++)
-        {
-            commonWords.add(br.readLine());
+        try (BufferedReader br = new BufferedReader(new FileReader("/Users/tristancarter/AuthorDetector/commonWords.txt"))) {
+            commonWords= new HashSet<>();
+            for(int i=0; i<3171; i++)
+            {
+                commonWords.add(br.readLine());
+            }
         }
         
     }

@@ -8,17 +8,21 @@ import java.io.IOException;
 import java.io.Reader;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.TreeMap;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class FrequencyReader {
-    public static FrequencyMap<String> countWordFrequency(Reader reader) {
+    public static FrequencyMap<String> countWordFrequency(File file) throws FileNotFoundException, IOException {
+        FrequencyMap<String> ret = countOneWordFrequency(file);
+        ret.putAll(countTwoWordFrequency(file));
+        ret.putAll(countThreeWordFrequency(file));
+        return ret;
+    }
+
+    public static FrequencyMap<String> countOneWordFrequency(Reader reader) {
         BufferedReader buff = new BufferedReader(reader);
         Stream<String> stream = buff.lines();
         Map<String, Long> map = stream
@@ -29,9 +33,9 @@ public class FrequencyReader {
         return new FrequencyMap<>(map);
     }
 
-    public static FrequencyMap<String> countWordFrequency(File file) throws FileNotFoundException, IOException {
+    public static FrequencyMap<String> countOneWordFrequency(File file) throws FileNotFoundException, IOException {
         try (FileReader fr = new FileReader(file)) {
-            return countWordFrequency(fr);   
+            return countOneWordFrequency(fr);   
         }
     }
 
