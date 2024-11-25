@@ -4,41 +4,89 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Objects;
+import java.util.function.BiConsumer;
 
 public class LexiconProfile {
+	private boolean isCalculated;
+	
     private FrequencyMap<String> lexicon;
+    private String word;
+    private int wordCount = 0;
+    private int phraseCount = 0;
+    private int lexicalSize = 0;
+    private double avg = 0;
 
     public LexiconProfile(FrequencyMap<String> lexicon) {
-        super();
         this.lexicon = lexicon;
     }
 
-    public LexiconProfile(File... samples) throws FileNotFoundException, IOException {
-        super();
-        if(samples == null) throw new NullPointerException("Samples cannot be null.");
-        if(samples.length == 0) throw new IllegalArgumentException("Samples must have at least one element.");
+    public LexiconProfile(File sample) throws FileNotFoundException, IOException {
+        if(sample == null) throw new NullPointerException("Samples cannot be null.");
 
-        this.lexicon = FrequencyReader.countWordFrequency(samples[0]);
-        for (int i = 1; i < samples.length; i++) {
-            File file = samples[i];
-            FrequencyMap<String> map = FrequencyReader.countWordFrequency(file);
-            map.forEach((key, value) -> {
-                lexicon.merge(key, value, Long::sum);
-            });
-        }
+        this.lexicon = FrequencyReader.countWordFrequency(sample);      
+    }
+    
+    public static double compare(LexiconProfile l1, LexiconProfile l2) {
+    	final double wordWeight = 0.5;
+    	final double word2Weight = 0.75;
+    	final double word3Weight = 1.0;
+    	
+    	
+    	
+    	var bic = new BiConsumer<String, Long>() {
+    		double comp = 0.0;
+    		long normalizer = 0L;
+//    		long max = 0L; // can't use lambda sadly
+			@Override
+			public void accept(String key, Long freq) {
+				normalizer++;
+//				max += freq;
+				long f2 = l2.lexicon.get(key);
+				double max = Math.max(freq, f2);
+				double min = Math.min(freq, f2);
+				comp += min / max;
+			}
+    	};
+    	
+    	l1.lexicon.forEach(bic);
+    	
+    	double a = bic.comp / bic.normalizer;
+    	
+    	bic.comp = 0.0;
+    	bic.normalizer = 0L;
+//    	bic.max = 0L;
+    	
+    	l2.lexicon.forEach(bic);
+    	
+    	double b = bic.comp / bic.normalizer;
+    	
+    	return ((a + b) * 0.5);
     }
 
-    /**
-     * Compares this lexicon profile with another.
-     * 
-     * @param profile The profile to compare with.
-     * @return A value from {@code [0, 1]} where values closer to 1
-     * indicate a greater similarity, while values closer to 0 indicate 
-     * less similarity.
-     */
-    public double compareTo(LexiconProfile profile) {
-        Objects.requireNonNull(profile);
-        // TODO compare lexicon profiles
-        throw new UnsupportedOperationException("Unimplemented method 'compareTo'");
-    }
+
+//    public LexiconProfile calculate() {
+//    	if(isCalculated) return this;
+//    	
+//    	BiConsumer<String,Long> action = (word, l) -> {
+//    		if(word.contains(" ")) {
+//    			
+//    		}
+//    		count += word.length() * l;
+//    		lexicalSize += l;
+////    		System.out.println("key " + key);
+////    		System.out.println("long " + l);
+//    	};
+//    	
+//        lexicon.forEach(action);
+////    	System.out.println(count);
+////    	System.out.println(lexicon.size());
+//    	
+//        this.avg = ((double)count/lexicon.size());
+//		return this;
+//    }
+//    
+//    @Override
+//    public String toString() {
+//    	return "Lexical Elemants: " + lexicalSize + "\nAverage word length: " + avg;
+//    }
 }
