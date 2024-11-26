@@ -18,20 +18,19 @@ public class LexiconProfile {
 
     public LexiconProfile(FrequencyMap<String> lexicon) {
         this.lexicon = lexicon;
+		this.lexicon.remove(""); // empty string was polluting some things
     }
 
     public LexiconProfile(File sample) throws FileNotFoundException, IOException {
         if(sample == null) throw new NullPointerException("Samples cannot be null.");
 
-        this.lexicon = FrequencyReader.countWordFrequency(sample);      
+        this.lexicon = FrequencyReader.countWordFrequency(sample);    
+		this.lexicon.remove("");  
     }
     
     public static double compare(LexiconProfile l1, LexiconProfile l2) {
     	final double wordWeight = 0.5;
-    	final double word2Weight = 0.75;
-    	final double word3Weight = 1.0;
-    	
-    	
+		final double lengthWeight = 0.05;
     	
     	var bic = new BiConsumer<String, Long>() {
     		double comp = 0.0;
@@ -39,12 +38,13 @@ public class LexiconProfile {
 //    		long max = 0L; // can't use lambda sadly
 			@Override
 			public void accept(String key, Long freq) {
-				normalizer++;
 //				max += freq;
 				long f2 = l2.lexicon.get(key);
+				int numWords = key.split("\\s+").length + 1;
+				normalizer += (freq + f2);
 				double max = Math.max(freq, f2);
 				double min = Math.min(freq, f2);
-				comp += min / max;
+				comp += (max - min) * (wordWeight * numWords);
 			}
     	};
     	
@@ -60,7 +60,7 @@ public class LexiconProfile {
     	
     	double b = bic.comp / bic.normalizer;
     	
-    	return ((a + b) * 0.5);
+    	return 1.0 - ((a + b) * 0.5);
     }
 
 
