@@ -19,19 +19,21 @@ public class Test {
         LexiconProfile jon = new LexiconProfile(new File("files/trainJon.txt"));
         LexiconProfile kyle = new LexiconProfile(new File("files/trainKyle.txt"));
 
-        System.out.println(LexiconProfile.compare(jon, jon));
+        // System.out.println(LexiconProfile.compare(jon, jon));
         
         // Map<String, Long> wordFrequencyMap = FrequencyReader.countOneWordFrequency(mystery1);
         // System.out.println(wordFrequencyMap + "\n");
         // System.out.println("Two word groups: " + FrequencyReader.countTwoWordFrequency(mystery1) + "\n");
         // System.out.println("Three word groups: " + FrequencyReader.countThreeWordFrequency(mystery1) + "\n");
 
-        Map<LexiconProfile, String> profiles = Map.of(andrew, "Andrew", fls, "FALSE", jennifer, "Jennifer", john, "John", jon, "Jon", kyle, "Kyle");
+        Map<LexiconProfile, String> profiles = Map.of(andrew, "Andrew", jennifer, "Jennifer", john, "John", jon, "Jon", kyle, "Kyle");
 
         for(int i = 1; i <= 6; i++) {
             LexiconProfile mystery = new LexiconProfile(new File("files/mystery" + i + ".txt"));
             getBest(profiles, mystery);
         }
+        // LexiconProfile mystery = john;
+        // getBest(profiles, mystery);
 
         // LexiconProfile l1 = new LexiconProfile(mystery1);
         // LexiconProfile l2 = new LexiconProfile(mystery2);
@@ -50,7 +52,7 @@ public class Test {
                 bestComp = comp;
                 best = entry;
             }
-            System.out.println("Current match: " + entry.getValue() + " with " + comp);
+            // System.out.println("Current match: " + entry.getValue() + " with " + comp);
         }
         System.out.println("Best match: " + best.getValue() + " with " + bestComp);
     }

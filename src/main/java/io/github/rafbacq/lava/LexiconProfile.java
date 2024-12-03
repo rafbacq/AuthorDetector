@@ -29,7 +29,7 @@ public class LexiconProfile {
     }
     
     public static double compare(LexiconProfile l1, LexiconProfile l2) {
-    	final double wordWeight = 0.5;
+    	final double wordWeight = 0.6;
 		final double lengthWeight = 0.05;
     	
     	var bic = new BiConsumer<String, Long>() {
@@ -44,7 +44,7 @@ public class LexiconProfile {
 				normalizer += (freq + f2);
 				double max = Math.max(freq, f2);
 				double min = Math.min(freq, f2);
-				comp += (max - min) * (wordWeight * numWords);
+				comp += (max - min) * (Math.pow(wordWeight, numWords));
 			}
     	};
     	
